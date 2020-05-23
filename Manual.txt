@@ -1,0 +1,14 @@
+MANUAL DE FUNCIONAMIENTO
+
+Preliminares:
+- Debe simular el programa en el montaje de Proteus incluido en este repositorio, pues este contiene cambios sustanciales que permiten el funcionamiento del código.
+
+Pasos:
+1) Ingrese el tiempo deseado en minutos y segundos. Asegúrse de presionar las 4 teclas correspondientes.
+	EJEMPLO: Si desea ingresar 00:30, presione '0' '0' '3' '0'.
+
+2) Si el tiempo ingresado es el correcto, presione la tecla '*' para comenzar el proceso de cocción.
+
+3) Si el tiempo ingresado NO es el correcto, presione la tecla '#' para borrar el tiempo y remítase una vez más al paso 1).
+
+4) Si desea cancelar el proceso de cocción mientras se está llevando a cabo, presione la tecla '#'.
