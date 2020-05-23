@@ -6,6 +6,7 @@ CONTENIDOS:
 - firmware.hex : Código para implementación en el Arduino Mega de Proteus.
 - Manual.txt : Instrucciones y consideraciones para la simulación en Proteus.
 - Simulacion.mp4 : Video de demostración de funcionamiento en Proteus.
+- 1Lab_ED_Timers.pdf : Informe de la práctica de laboratorio, contiene información importante sobre los requerimientos del programa y las etapas preliminares de diseño del código.
 
 Desarrolladores:
 - Cristian Lopera Trujillo
