@@ -7,6 +7,7 @@ CONTENIDOS:
 - Manual.txt : Instrucciones y consideraciones para la simulación en Proteus.
 - Simulacion.mp4 : Video de demostración de funcionamiento en Proteus.
 - 1Lab_ED_Timers.pdf : Informe de la práctica de laboratorio, contiene información importante sobre los requerimientos del programa y las etapas preliminares de diseño del código.
+- Microwave.pdsprj : Montaje para simulación en Proteus.
 
 Desarrolladores:
 - Cristian Lopera Trujillo
